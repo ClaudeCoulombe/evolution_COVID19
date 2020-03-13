@@ -1,6 +1,6 @@
-# Evolution de la pandémie du COVID-19 - (English version below)
+# Evolution de la pandémie du COVID-19 - (English below)
 
-Petit exercice d'exploration et de visualisation simple des donnees de l'évolution de la pandémie du COVID-19
+Petit exercice d'exploration et de visualisation simple des donnees de l'évolution temporelle de la pandémie du COVID-19
 
 ## Outils
 
@@ -30,11 +30,11 @@ Sauf si requis par la loi en vigueur ou par accord écrit, le logiciel distribu�
 SANS GARANTIE NI CONDITION DE QUELQUE NATURE QUE CE SOIT, implicite ou explicite. Consultez la Licence pour connaitre
 la terminologie spécifique régissant les autorisations et les limites prévues par la licence.
 
-# --------------------------------------------------------------------
+# ------------------------------------------------------------
 
 # Evolution of the COVID-19 pandemic
 
-Small exercise of data exploration and visualization of the evolution of the COVID-19 pandemic.
+Small exercise of data exploration and visualization of the evolution over time of the COVID-19 pandemic.
 
 IPython / Jupyter Notebook
 
@@ -60,4 +60,6 @@ You may obtain a copy of the License at [Apache 2.0 License](http://www.apache.o
 **Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on 
 an 'AS IS' BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. 
 See the License for the specific language governing permissions and limitations under the License.**
+
+# ------------------------------------------------------------        
 
