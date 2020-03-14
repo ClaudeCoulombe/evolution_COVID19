@@ -30,6 +30,8 @@ Sauf si requis par la loi en vigueur ou par accord écrit, le logiciel distribu�
 SANS GARANTIE NI CONDITION DE QUELQUE NATURE QUE CE SOIT, implicite ou explicite. Consultez la Licence pour connaitre
 la terminologie spécifique régissant les autorisations et les limites prévues par la licence.
 
+<img src="images/Evolution-COVID19-EchLog.png">
+
 # ------------------------------------------------------------
 
 # Evolution of the COVID-19 pandemic
