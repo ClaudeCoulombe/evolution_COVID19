@@ -32,6 +32,9 @@ la terminologie spécifique régissant les autorisations et les limites prévues
 
 <img src="images/Evolution-COVID19-EchLog.png">
 
+<img src="images/Evolution-COVID19-moins_Chine-EchNormale.png">
+
+
 # ------------------------------------------------------------
 
 # Evolution of the COVID-19 pandemic
@@ -62,6 +65,11 @@ You may obtain a copy of the License at [Apache 2.0 License](http://www.apache.o
 **Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on 
 an 'AS IS' BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. 
 See the License for the specific language governing permissions and limitations under the License.**
+
+<img src="images/Evolution-COVID19-LogScale.png">
+
+<img src="images/Evolution-COVID19-minus_China-StdScale.png">
+
 
 # ------------------------------------------------------------        
 
