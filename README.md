@@ -14,7 +14,7 @@ Dépôt de données ouvertes du COVID-19 - John Hopkins University - CSSE
 
 https://github.com/CSSEGISandData/COVID-19
 
-**NOTE**: Les données contenues dans le répertoire DATA doivent être mise à jour régulièrement pour réfléter l'évolution dans le temps.
+**NOTE**: Les données contenues dans le répertoire DATA doivent être mises à jour régulièrement pour réfléter l'évolution dans le temps.
 
 ## Licence
 
