@@ -87,7 +87,7 @@ Commentaire publié dans l'Actualité du 30 mars 2020: https://bit.ly/3dIOvYK
 
 Carnet web IPython / Jupyter
 
-Bibliothèques NumPy, Pandas, matplotlib et Jupyter / IPython, 
+Bibliothèques NumPy, Pandas, ScyPy, Sklearn, pyramid-arima, statsmodels, matplotlib et Jupyter / IPython, 
 
 ## Données
 
