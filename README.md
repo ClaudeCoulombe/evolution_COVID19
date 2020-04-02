@@ -110,7 +110,7 @@ http://www.apache.org/licenses/LICENSE-2.0
 Sauf si requis par la loi en vigueur ou par accord écrit, le logiciel distribué sous la licence est distribué "TEL QUEL", SANS GARANTIE NI CONDITION DE QUELQUE NATURE QUE CE SOIT, implicite ou explicite. Consultez la Licence pour connaitre la terminologie spécifique régissant les autorisations et les limites prévues par la licence.
 
 
-<img src="images/images/Prediction-COVID19-Quebec.png">
+<img src="images/Prediction-COVID19-Quebec.png">
 
 
 # ------------------------------------------------------------        
