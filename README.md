@@ -73,6 +73,8 @@ See the License for the specific language governing permissions and limitations 
 
 # ------------------------------------------------------------        
 
+# Modèle prédictif de la pandémie du COVID-19 au Québec
+
 Petit exercice de prédiction de l'évolution temporelle de la pandémie du COVID-19 sur le territoire du Québec.
 
 Pour contrer l'anxiété de la pandémie de COVID-19, rien de mieux que d'agir. J'ai donc préparé un petit carnet Web Python, prétexte pour un petit exercice d'exploration de données avec Pandas puis un carnet web IPython avec des modèles prédictifs. 
