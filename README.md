@@ -81,7 +81,9 @@ Pour contrer l'anxiété de la pandémie de COVID-19, rien de mieux que d'agir. 
 
 Le modèle résultant est une combinaison de modèles ARIMA et d'un modèle de régression non linéaire. ARIMA est un acronyme qui signifie AutoRegressive Integrated Moving Average, en français modèle de moyenne mobile autorégressive.
 
-**Attention!** Je ne suis pas épidémiologiste! Il s'agit d'un exercice «amateur» réalisé comme un loisir scientifique. Je suis ouvert à la discussion pour améliorer mon modèle et pour le plaisir d'apprendre.
+**Attention!** Je ne suis pas épidémiologiste! Il s'agit d'un exercice «amateur» réalisé comme un loisir scientifique. Je suis ouvert à la discussion pour améliorer mes modèles et pour le plaisir d'apprendre. Aussi ces modèles ne sont bons que pour faire des prédictions à court terme. 
+
+**Note:** Pour faire des prédictions plus complètes et à plus long terme, des simulations avec des modèles mathématiques à base d'équations différentielles seraient plus appropriées (https://bit.ly/2JEMe3g) dont les paramètres peuvent être extraits des données. Pour avoir une idée avec des simulations-jouets, allez voir les capsules vidéos de Grant Sanderson (3Blue1Brown), mon infographiste scientifique préféré: https://bit.ly/33Umjhe
 
 Commentaire publié dans l'Actualité du 30 mars 2020: https://bit.ly/3dIOvYK
 
