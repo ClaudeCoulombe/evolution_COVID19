@@ -125,8 +125,6 @@ Sauf si requis par la loi en vigueur ou par accord écrit, le logiciel distribu�
 
 La composante exponentielle ne semble plus requise. Elle est conservée pour des raisons historiques dans le carnet IPython, mais le modèle combiné est retiré de ce résumé. 
 
-<!-- <img src="images/Prediction-modele_combine-COVID19-Quebec.png"> -->
-
-
+<img src="images/Prediction-modele_combine-COVID19-Quebec.png">
 
 # ------------------------------------------------------------        
