@@ -115,12 +115,18 @@ http://www.apache.org/licenses/LICENSE-2.0
 
 Sauf si requis par la loi en vigueur ou par accord écrit, le logiciel distribué sous la licence est distribué "TEL QUEL", SANS GARANTIE NI CONDITION DE QUELQUE NATURE QUE CE SOIT, implicite ou explicite. Consultez la Licence pour connaitre la terminologie spécifique régissant les autorisations et les limites prévues par la licence.
 
+## Modèle meilleurs ARIMA seulement
+
+À ce statde de l'évolutio de la pandémie au Québec, il semble bien qu'un modèle ARIMA soit maintenant le plus susceptible de faire de bonnes prédictions, du moins à court terme.
+
+<img src="images/Prediction-ARIMA_seul-COVID19-Quebec.png">
 
 ## Modèle combiné meilleurs ARIMA + régression non-linéaire avec exponentielle
-<img src="images/Prediction-modele_combine-COVID19-Quebec.png">
 
-## Modèle meilleurs ARIMA seulement
-<img src="images/Prediction-ARIMA_seul-COVID19-Quebec.png">
+La composante exponentielle ne semble plus requise. Elle est conservée pour des raisons historiques dans le carnet IPython, mais le modèle combiné est retiré de ce résumé. 
+
+<!-- <img src="images/Prediction-modele_combine-COVID19-Quebec.png"> -->
+
 
 
 # ------------------------------------------------------------        
