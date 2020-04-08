@@ -117,14 +117,20 @@ Sauf si requis par la loi en vigueur ou par accord écrit, le logiciel distribu�
 
 ## Modèle meilleurs ARIMA seulement
 
-À ce statde de l'évolutio de la pandémie au Québec, il semble bien qu'un modèle ARIMA soit maintenant le plus susceptible de faire de bonnes prédictions, du moins à court terme.
+À ce statde de l'évolution de la pandémie au Québec, il semble bien qu'un modèle ARIMA soit maintenant le plus susceptible de faire de bonnes prédictions, du moins à court terme.
 
 <img src="images/Prediction-ARIMA_seul-COVID19-Quebec.png">
 
 ## Modèle combiné meilleurs ARIMA + régression non-linéaire avec exponentielle
 
-La composante exponentielle ne semble plus requise. Elle est conservée pour des raisons historiques dans le carnet IPython, mais le modèle combiné est retiré de ce résumé. 
-
 <img src="images/Prediction-modele_combine-COVID19-Quebec.png">
+
+# Nouveau modèle ?
+
+En observant le comportement de mes modèles depuis quelques jours, je suis tenté de faire une moyenne entre les résultats de mes deux principaux modèles, i.e. (modèle combiné + modèle pur ARIMA)/2
+
+<img src="images/Prediction-nouveau_modele-COVID19-Quebec.png">
+
+
 
 # ------------------------------------------------------------        
