@@ -117,11 +117,13 @@ Sauf si requis par la loi en vigueur ou par accord écrit, le logiciel distribu�
 
 ## Modèle meilleurs ARIMA seulement
 
-À ce statde de l'évolution de la pandémie au Québec, il semble bien qu'un modèle ARIMA soit maintenant le plus susceptible de faire de bonnes prédictions, du moins à court terme.
+À ce stade de l'évolution de la pandémie au Québec, il semble bien qu'un modèle ARIMA soit maintenant le plus susceptible de faire de bonnes prédictions, du moins à court terme.
 
 <img src="images/Prediction-ARIMA_seul-COVID19-Quebec.png">
 
 ## Modèle combiné meilleurs ARIMA + régression non-linéaire avec exponentielle
+
+Depuis quelques jours, le modèle combiné semble moins pertinent au fur et à mesure que l'on s'éloigne d'une évolution exponentielle.
 
 <img src="images/Prediction-modele_combine-COVID19-Quebec.png">
 
