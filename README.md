@@ -133,6 +133,4 @@ En observant le comportement de mes modèles depuis quelques jours, je suis tent
 
 <img src="images/Prediction-nouveau_modele-COVID19-Quebec.png">
 
-
-
 # ------------------------------------------------------------        
