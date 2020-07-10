@@ -35,7 +35,7 @@ la terminologie spécifique régissant les autorisations et les limites prévues
 <img src="images/Evolution-COVID19-moins_Chine-EchNormale.png">
 
 
-# ------------------------------------------------------------
+# ----------------------------------------------------------
 
 # Evolution of the COVID-19 pandemic
 
