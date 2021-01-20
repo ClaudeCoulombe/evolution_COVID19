@@ -121,13 +121,15 @@ Sauf si requis par la loi en vigueur ou par accord écrit, le logiciel distribu�
 
 <img src="images/Prediction-ARIMA_seul-COVID19-Quebec.png">
 
+<!-- 
+
 ## Modèle combiné meilleurs ARIMA + régression non-linéaire avec exponentielle
 
 ### Depuis quelques jours, un modèle combiné semble plus pertinent traduisant une composante d'évolution exponentielle.
 
 <img src="images/Prediction-modele_combine-COVID19-Quebec.png">
 
-<!-- 
+
 # Nouveau modèle ?
 
 En observant le comportement de mes modèles depuis quelques jours, je suis tenté de faire une moyenne entre les résultats de mes deux principaux modèles, i.e. (modèle combiné + modèle pur ARIMA)/2
