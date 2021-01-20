@@ -117,7 +117,7 @@ Sauf si requis par la loi en vigueur ou par accord écrit, le logiciel distribu�
 
 ## Modèle meilleurs ARIMA seulement
 
-À ce stade de l'évolution de la pandémie au Québec, il semble bien qu'un modèle ARIMA sous-évalue la progression de la pandémie, du moins à court terme.
+À ce stade de l'évolution de la pandémie au Québec, il semble bien qu'un modèle pur ARIMA décrive mieux la progression de la pandémie, du moins à court terme.
 
 <img src="images/Prediction-ARIMA_seul-COVID19-Quebec.png">
 
