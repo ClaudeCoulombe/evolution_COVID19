@@ -32,7 +32,7 @@ la terminologie spécifique régissant les autorisations et les limites prévues
 
 <img src="images/Evolution-COVID19-EchLog.png">
 
-<img src="images/Evolution-COVID19-moins_Chine-EchNormale.png">
+<img src="images/Evolution-COVID19-EchNormale.png">
 
 
 # ----------------------------------------------------------
@@ -105,7 +105,7 @@ https://github.com/CSSEGISandData/COVID-19
 
 ## Licence
 
-Copyright (C) 2020 - Claude COULOMBE
+Copyright (C) 2020-2021 - Claude COULOMBE
 
 Sous licence Apache, Version 2.0 (la "Licence");
 
